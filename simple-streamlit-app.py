@@ -85,3 +85,6 @@ with col_footer1:
 with col_footer2:
     if st.button("Contact Me"):
         st.write("📧 Contact information here")
+
+
+st.markdown("This is the end of the app")

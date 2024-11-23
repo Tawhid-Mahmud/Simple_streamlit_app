@@ -72,17 +72,7 @@ if st.button('Click Me!'):
 # ... existing code ...
 
 
-st.divider()
-
-# Add footer with your name and a button
-col_footer1, col_footer2 = st.columns([3,1])
-
-with col_footer1:
-    st.markdown("### Created by Mahmud")
-
-with col_footer2:
-    if st.button("Contact Me"):
-        st.write("📧 Contact information here")
-
-
-st.markdown("This is the end of the app")
+print("This is the end of the app")
+print("This is the end of the app")
+print("This is the end of the app")
+print("This is the end of the app")
